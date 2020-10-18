@@ -1,7 +1,7 @@
 # BigGangInfo
 Info for Biggangstar editons!
 
-### Note: right now it only has GDGO's version.
+### Note: It's pretty outdated now, i doubt it'll be updated anytime soon.
 #### Note: right now it only has GDGO's version.
 
 Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
